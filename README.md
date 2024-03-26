@@ -4,3 +4,11 @@
 Opening Closing <br>
 Dilation Erosion <br>
 Skeletonization <br>
+
+# Usage
+```
+pip install opencv-python
+pip install -U matplotlib
+pip install numpy
+pip install -U scikit-image
+```
